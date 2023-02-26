@@ -1,16 +1,8 @@
 # flutter_bitirme_projesi
 
-A new Flutter application.
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/79982521/221418754-0d7703a1-54a2-42ae-a9ea-1ba1e59cb601.jpeg" height="600">
+<img src="https://user-images.githubusercontent.com/79982521/221418763-3bda0ed5-9816-424a-b04d-f1de618a67e7.jpeg" height="600">
+<img src="https://user-images.githubusercontent.com/79982521/221418770-1c20bf0c-9a47-4e2e-a8db-ec29626ec1a5.jpeg" height="600">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
